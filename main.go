@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	// "github.com/azeezdot123/go-fiber-basic/database"
-	// "github.com/azeezdot123/go-fiber-basic/lead"
+	"github.com/azeezdot123/go-fiber-basic/database"
+	"github.com/azeezdot123/go-fiber-basic/lead"
 	"github.com/gofiber/fiber"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
