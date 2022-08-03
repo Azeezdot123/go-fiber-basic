@@ -1,7 +1,6 @@
 package lead
 
 import (
-	"fmt"
 	"github.com/azeezdot123/go-fiber-basic/database"
 	"github.com/gofiber/fiber"
 	"github.com/jinzhu/gorm"
